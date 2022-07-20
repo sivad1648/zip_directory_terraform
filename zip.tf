@@ -1,3 +1,5 @@
+##Zip a directory for lambda purpose
+
 locals {
     lambda_zip_location = "./siva.zip"
 }
